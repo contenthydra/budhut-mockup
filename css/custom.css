@@ -1,0 +1,27 @@
+#main-jumbo { 
+    margin-bottom: 0px;
+    background-image: url(../img/bud-bg.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+
+
+    
+}
+
+.container-myown {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.row {
+    padding-right: 0px;
+    margin-right: 0px;
+}
+
+
+
+/* MEDIA QUERIES 
+////////////////
+*/
